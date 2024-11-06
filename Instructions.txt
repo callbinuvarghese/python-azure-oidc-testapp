@@ -1,0 +1,11 @@
+# https://learn.microsoft.com/en-us/azure/active-directory-b2c/configure-authentication-sample-python-web-app?tabs=macos#step-3-get-the-web-app-sample
+# https://learn.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-python-web-app?tabs=macos
+
+#https://github.com/Azure-Samples/ms-identity-python-webapp
+
+#Rename .env to to fit your needs.
+
+#Install the dependencies with the following command
+python -m pip install -r requirements.txt
+#Run with the following commands
+python -m flask run --host localhost --port 5000
